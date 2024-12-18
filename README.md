@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @RichardHo7788
-- 👀 I’m interested in ...
+- 👀 I’m interested in python
 - 🌱 I’m currently learning ...python learnin
 - 📫 How to reach me ...
 - 😄 Pronouns: ...s
